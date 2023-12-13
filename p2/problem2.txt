@@ -1,0 +1,5 @@
+Estimate the monthly bills (customer, demand, and energy) for a baseload electricity consumer of 2000kW, 0therm, and 1 meter using the tariff structure from the Huntington Beach, CA wastewater treatment plant. 
+
+Use the helper code and data found at: https://github.com/we3lab/wwtp-energy-tariffs/tree/main
+
+Report results using plots, justify methods in writing, and provide all code (with comments). Make, list, and justify any assumptions as needed. 
