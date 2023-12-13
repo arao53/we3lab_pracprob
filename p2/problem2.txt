@@ -7,8 +7,3 @@ treatment plant. Helper functions can be found at: https://github.com/we3lab/wwt
 Report your results using plots, justify methods in writing, and provide all code (with comments). 
 Make, list, and justify any assumptions as needed. To submit, please share a private github repository 
 containing the associated files. 
-
-**For extra credit: find the electrical carbon footprint of the same consumer in the same timeframe. 
-Use the hourly grid carbon intensity measurements from the LDWP balancing authority within CAISO/CISO. 
-API/data found here: https://gridemissions.jdechalendar.su.domains/#/code
-(hint: the grid carbon intensity can be estimated by dividing the consumption-based emissions by the total consumption).
