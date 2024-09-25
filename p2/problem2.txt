@@ -5,6 +5,5 @@ For the tariff structure, assume the utility rates from the Huntington Beach, CA
 treatment plant. Helper functions can be found at: https://github.com/we3lab/wwtp-energy-tariffs/tree/main
 (Hint: all instructions for use are contained in the ReadME file). 
 
-Report your results using plots, justify methods in writing, and provide all code (with comments). 
-Make, list, and justify any assumptions as needed. To submit, please share a private github repository 
+Report your results using plots, justify methods in writing, and provide all code. To submit, please share a private github repository 
 containing the associated files. 
